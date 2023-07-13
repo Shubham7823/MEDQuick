@@ -1,0 +1,205 @@
+ SingleProduct(
+                        productImage:
+                            'https://m.media-amazon.com/images/I/31X+KxgGJFL.jpg',
+                        productName: 'Neutrogena Ultra Sheer Dry-Touch SPF-50',
+                        onTap: () {
+                          Navigator.of(context).push(
+                            MaterialPageRoute(
+                              builder: (context) => ProductOverview(
+                                productImage:
+                                    'https://m.media-amazon.com/images/I/31X+KxgGJFL.jpg',
+                                productName:
+                                    'Neutrogena Ultra Sheer Dry-Touch SPF-50',
+                                productDescription:
+                                    'Description \nProtect your skin from sun damage with the mattifying Neutrogena Ultra Sheer Dry Touch Sunblock SPF 50+. It is specially formulated with Helioplex technology that protects your skin from UVA and UVB rays. It is also made with Dry Touch technology that gives a non-shiny and weightless feel on the skin as you apply it. Now enjoy going out in the sun with this effective sunblock solution that is suitable even for sensitive skin.',
+                              ),
+                            ),
+                          );
+                        },
+                        productWeight: '100gm'),
+                    SingleProduct(
+                        productImage:
+                            'https://5.imimg.com/data5/SELLER/Default/2022/9/NO/GD/IW/38772243/1-500x500.jpg',
+                        productName:
+                            'La Shield Expert Urban Protect SPF 50 PA++',
+                        onTap: () {
+                          Navigator.of(context).push(
+                            MaterialPageRoute(
+                              builder: (context) => ProductOverview(
+                                productImage:
+                                    'https://5.imimg.com/data5/SELLER/Default/2022/9/NO/GD/IW/38772243/1-500x500.jpg',
+                                productName:
+                                    'La Shield Expert Urban Protect SPF 50 PA++',
+                                productDescription:
+                                    'Description \nLa Shield Mineral Sunscreen Gel provides superior broad spectrum protection against UVA and UVB rays.\nKey Benefits \nBoosts skin hydration.\nIt is paraben and alcohol free.\nIt is water resistant.Directions for UseApply liberally on the face, neck and exposed area of the skin at least 15 minutes before sun exposure.\nApply every day for maximum protection.',
+                              ),
+                            ),
+                          );
+                        },
+                        productWeight: '50gm'),
+                    SingleProduct(
+                        productImage:
+                            'https://m.media-amazon.com/images/I/61sK+7WrvgL._SL1500_.jpg',
+                        productName: 'Lacto Calamine SPF 50 PA++ UVA/UVB',
+                        onTap: () {
+                          Navigator.of(context).push(
+                            MaterialPageRoute(
+                              builder: (context) => ProductOverview(
+                                productImage:
+                                    'https://m.media-amazon.com/images/I/61sK+7WrvgL._SL1500_.jpg',
+                                productName:
+                                    'Lacto Calamine SPF 50 PA++ UVA/UVB',
+                                productDescription:
+                                    'Description \nProtect your skin from sun damage with the mattifying Neutrogena Ultra Sheer Dry Touch Sunblock SPF 50+. It is specially formulated with Helioplex technology that protects your skin from UVA and UVB rays. It is also made with Dry Touch technology that gives a non-shiny and weightless feel on the skin as you apply it. Now enjoy going out in the sun with this effective sunblock solution that is suitable even for sensitive skin.',
+                              ),
+                            ),
+                          );
+                        },
+                        productWeight: '50gm'),
+                    SingleProduct(
+                        productImage:
+                            'https://media6.ppl-media.com/tr:h-235,w-235,c-at_max,oi-Best_seller_700x700base_gUMVzNGWt_.png,ofo-top_right,dpr-2/static/img/product/341449/cetaphil-daily-advance-ultra-hydrating-lotion-23-20-13-18_1_display_1659419779_fb1b525e.jpg',
+                        productName: 'Cetaphil Sun SPF 30 Very High Protection',
+                        onTap: () {
+                          Navigator.of(context).push(
+                            MaterialPageRoute(
+                              builder: (context) => ProductOverview(
+                                productImage:
+                                    'https://media6.ppl-media.com/tr:h-235,w-235,c-at_max,oi-Best_seller_700x700base_gUMVzNGWt_.png,ofo-top_right,dpr-2/static/img/product/341449/cetaphil-daily-advance-ultra-hydrating-lotion-23-20-13-18_1_display_1659419779_fb1b525e.jpg',
+                                productName:
+                                    'Cetaphil Sun SPF 30 Very High Protection',
+                                productDescription:
+                                    'Description \nProtect your skin from sun damage with the mattifying Neutrogena Ultra Sheer Dry Touch Sunblock SPF 50+. It is specially formulated with Helioplex technology that protects your skin from UVA and UVB rays. It is also made with Dry Touch technology that gives a non-shiny and weightless feel on the skin as you apply it. Now enjoy going out in the sun with this effective sunblock solution that is suitable even for sensitive skin.',
+                              ),
+                            ),
+                          );
+                        },
+                        productWeight: '100ml'),
+                    SingleProduct(
+                        productImage:
+                            'https://newassets.apollo247.com/pub/media/catalog/product/n/o/nov0533_1.jpg',
+                        productName: 'Novology SPF 30 PA+++ Hyperpigmentation',
+                        onTap: () {},
+                        productWeight: '50gm')
+
+
+                        ////////covid care///
+                         SingleProduct1(
+                      productImage:
+                          'https://m237.apollo247.com/pub/media/catalog/product/i/m/img_0338_copy.jpg',
+                      productName: 'Apollo Pharmacy Compressor Nebulizer',
+                      onTap: () {
+                        Navigator.of(context).push(
+                          MaterialPageRoute(
+                            builder: (context) => ProductOverview(
+                              productImage:
+                                  'https://m237.apollo247.com/pub/media/catalog/product/i/m/img_0338_copy.jpg',
+                              productName:
+                                  'Apollo Pharmacy Compressor Nebulizer',
+                              productDescription:
+                                  'Description \nA nebulizer changes medication from a liquid to a mist so that it can be more easily inhaled into the lungs. Nebulizers are particularly effective in delivering asthma medications to infants and small children and to anyone who has difficulty using an asthma inhaler.',
+                            ),
+                          ),
+                        );
+                      },
+                    ),
+                    SingleProduct1(
+                      productImage:
+                          'https://newassets.apollo247.com/pub/media/catalog/product/c/l/cle0331_1.jpg',
+                      productName: 'Apex Clevira, 10 Tablets',
+                      onTap: () {
+                        Navigator.of(context).push(
+                          MaterialPageRoute(
+                            builder: (context) => ProductOverview(
+                              productImage:
+                                  'https://newassets.apollo247.com/pub/media/catalog/product/c/l/cle0331_1.jpg',
+                              productName: 'Apex Clevira, 10 Tablets',
+                              productDescription:
+                                  'Description\nApex Clevira Tablets have a polyherbal formulation and are loaded with antiviral, anti-inflammatory, and antioxidant properties. The blend of multi-ingredients are known for their antiviral effect against HSV-1 and HSV-2 viruses. The herbal ingredients also possess medicinal properties like antipyretic and immuno regulatory properties and are effective in fever. Fight common illnesses with the goodness of herbal ingredients with this syrup.',
+                            ),
+                          ),
+                        );
+                      },
+                    ),
+                    SingleProduct1(
+                      productImage:
+                          'https://newassets.apollo247.com/pub/media/catalog/product/c/_/c.jpg',
+                      productName: 'Zincovit Tbalets 15\'s',
+                      onTap: () {},
+                    ),
+                    SingleProduct1(
+                      productImage:
+                          'https://newassets.apollo247.com/pub/media/catalog/product/c/o/covidfind_box_1.jpg',
+                      productName: 'COVIFIND Covid-19 Antigen Self Test Kit',
+                      onTap: () {},
+                    ),
+                    SingleProduct1(
+                      productImage:
+                          'https://m.media-amazon.com/images/I/51d5pNYPBmL._SL1001_.jpg',
+                      productName: 'Baidynath Vansaar Neem % Tulsi Juice',
+                      onTap: () {},
+                    ),
+                    SingleProduct1(
+                      productImage:
+                          'https://newassets.apollo247.com/pub/media/catalog/product/a/p/aps0021-n0v18_1__1.jpg',
+                      productName: "Apollo Pharmacy Vapotizer Steam Inhaler",
+                      onTap: () {},
+                    ),
+                    SingleProduct1(
+                      productImage:
+                          'https://www.netmeds.com/images/product-v1/600x600/859708/omron_compressor_nebulizer_ne_c101_0.jpg',
+                      productName: 'Omron Compressor Nebulizer NE-C106',
+                      onTap: () {},
+                    ),
+                    SingleProduct1(
+                      productImage:
+                          'https://cdn01.pharmeasy.in/dam/products_otc/F96910/cofsils-experdine-gargle-100-ml-3-1654169505.jpg',
+                      productName: 'Cipla COfils Experdine Gargle 100ml',
+                      onTap: () {},
+                    ),
+
+
+                    //// lis view buidler ///
+                    body: ListView.builder(
+          itemBuilder: (context, index) {
+            return Column(children: [
+              ListTile(
+                title: Text("Items"),
+              ),
+              Container(
+                height: 52,
+                margin: EdgeInsets.symmetric(horizontal: 20),
+                child: TextField(
+                  decoration: InputDecoration(
+                    border: OutlineInputBorder(
+                      borderRadius: BorderRadius.circular(30),
+                      borderSide: BorderSide.none,
+                    ),
+                    fillColor: Color.fromARGB(255, 218, 213, 213),
+                    filled: true,
+                    hintText: "Search for items in the store",
+                    suffixIcon: Icon(Icons.search),
+                  ),
+                ),
+              ),
+              SizedBox(
+                height: 10,
+              ),
+              SingleItem(
+                isBool: false,
+              ),
+              SingleItem(
+                isBool: false,
+              ),
+              SingleItem(
+                isBool: false,
+              ),
+              SingleItem(
+                isBool: false,
+              ),
+            ]);
+          }
+          // children: [
+          //
+          ,
+        )
